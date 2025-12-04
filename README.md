@@ -89,7 +89,8 @@ Run: Execute the main method in SimpleBlogApp.java.
 
 📸 Screenshots
 
-(Add screenshots of your Login Screen and Feed here)
+<img width="671" height="670" alt="Screenshot 2025-11-22 184125" src="https://github.com/user-attachments/assets/d243616a-b788-420f-ac4b-f7649674a57b" />
+
 
 📝 License
 
